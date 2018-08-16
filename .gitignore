@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+thomas_venv
+thomas_project
+db.sqlite3
+/static
+.DS_Store
+.ipynb_checkpoints
+*.ipynb
+.vscode
+myvenv
